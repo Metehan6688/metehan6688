@@ -24,8 +24,8 @@ Most of my work revolves around ESP32, Arduino, and bare-metal development in C,
 
 - **Sumo Robot**
 - **Line Follower Robot**
-- **Autonomous Air Defense System** (OpenCV and ESP32)
-- **ESP32 Mini Kernel** (C and C++, in progress)
+- **Autonomous Air Defense System** (ESP32 + OpenCV, autonomous targeting concept)
+- **ESP32 Mini Kernel** (bare-metal, C/C++, in progress)
 
 ---
 
@@ -40,3 +40,8 @@ Most of my work revolves around ESP32, Arduino, and bare-metal development in C,
 
 Trekking & hiking · Star Wars · The Lord of the Rings  
 Favorite game: *Knife Edge: Nose Gunner*
+
+## 📫 Contact
+
+- GitHub: *https://github.com/Metehan6688/*
+- Email: *furkanmetehansemerci@gmail.com*

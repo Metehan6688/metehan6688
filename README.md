@@ -39,7 +39,6 @@ Most of my work revolves around ESP32, Arduino, and bare-metal development in C,
 ## 🎯 Interests
 
 Trekking & hiking · Star Wars · The Lord of the Rings  
-Favorite game: *Knife Edge: Nose Gunner*
 
 ## 📫 Contact
 

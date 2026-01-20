@@ -24,8 +24,8 @@ Most of my work revolves around ESP32, Arduino, and bare-metal development in C,
 
 - **Sumo Robot**
 - **Line Follower Robot**
-- **Autonomous Air Defense System** (ESP32 + OpenCV, autonomous targeting concept)
-- **ESP32 Mini Kernel** (bare-metal, C/C++, in progress)
+- **Autonomous Targetting System** (ESP32 + OpenCV, autonomous targeting concept)
+- **ESP32 Micro Kernel** (bare-metal, C/C++, in progress)
 
 ---
 

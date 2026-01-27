@@ -5,6 +5,8 @@ Türkiye 🇹🇷
 I build embedded systems and robotic projects with a focus on low-level software, control logic, and automation.  
 Most of my work revolves around ESP32, Arduino, and bare-metal development in C, C++, Python.
 
+
+
 ---
 
 ## 🛠 Skills
@@ -26,6 +28,28 @@ Most of my work revolves around ESP32, Arduino, and bare-metal development in C,
 - **Line Follower Robot**
 - **Autonomous Targetting System** (ESP32 + OpenCV, autonomous targeting concept)
 - **ESP32 Micro Kernel** (bare-metal, C/C++, in progress)
+
+---
+
+## 🏆 Competition & Team Experience
+
+### 🥈 IZTECH RoboLeague 2025 – 2nd Place
+**Team:** Göktürkler Hava Savunma (High School Robotics Team)  
+**Role:** UART communication & Motion Control & Power distrubition / Team Captain  
+
+**Contributions:**
+- Designed and wired multi-voltage power systems (220V / 24V / 5V) with safety considerations(B type fuses and zener diodes)
+- Implemented system-level cabling and power distribution
+- Developed computer vision pipeline using OpenCV
+- Transmitted processed vision data via UART to ESP32
+- Implemented motion control logic based on incoming data
+- Controlled stepper motors using ESP32 and Arduino Nano
+- Designed and implemented homing and calibration routines
+- Performed system integration, testing, and field optimization
+
+
+**Competition Media / Proof:**  
+🔗 https://www.instagram.com/gokturkler_hava_savunma
 
 ---
 
